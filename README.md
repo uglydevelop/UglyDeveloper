@@ -11,9 +11,10 @@
 
 ## 🛠 TECH STACK & TOOLS
 ```text
-​> [🕹️ Game Development & 3D]:
+​> [🕹️ Game Development]:
 ​Engine: Unity
 ​Language: C#
+Platforms: Android, Windows
 
 ​> [📱 Android Development]:
 ​Language: Kotlin
