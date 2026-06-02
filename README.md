@@ -24,8 +24,6 @@
 * **Design:** Material Design 3 (Material You) &nbsp; ![]([https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white](https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white))
 
 
-```
-
 ​<div align="center">
 
 Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
