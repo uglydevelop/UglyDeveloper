@@ -3,9 +3,9 @@
 ​<!-- Общая статистика твоего аккаунта -->
 <img src="https://github-readme-stats.vercel.app/api?username=uglydevelop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
 <!-- Топ языков, которые ты реально используешь в коде -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uglydevelop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 ​<!-- График твоих ежедневных коммитов -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uglydevelop&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
 ​</div>
 ​<div align="center">
 <!-- Неоновая зацикленная гифка для атмосферы -->
