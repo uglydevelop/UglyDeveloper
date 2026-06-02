@@ -11,11 +11,7 @@
 
 ​<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmN0M3B0M3B0M3B0M3B0M3B0M3B0M3B0M3B0M3B/l3q2K1M6w1qR2L6wU/giphy.gif" width="200" style="border-radius: 8px;" />
-
-# ⚡ SYSTEM STATUS: ACTIVE ⚡
-
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuglydevelop&count_bg=%238A2BE2&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=PROFILE+ACCESS&edge_flat=false)
+Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
 
 </div>
 
