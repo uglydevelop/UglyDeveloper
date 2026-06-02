@@ -15,8 +15,7 @@
 
 # ⚡ SYSTEM STATUS: ACTIVE ⚡
 
-<!-- Счетчик просмотров твоей страницы -->
-![Views](https://komarev.com/badge/pageviews?page=uglydevelop&color=8a2be2&style=flat-square&label=PROFILE_ACCESS_LOGS)
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuglydevelop&count_bg=%238A2BE2&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=PROFILE+ACCESS&edge_flat=false)
 
 </div>
 
@@ -29,5 +28,6 @@
 > [STYLE]: Dark Minimalist & High Performance
 
 ```
+<div align="center">
 <sub><i>"Silence is better than uncompleted code."</i></sub>
-
+</div>
