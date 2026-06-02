@@ -9,6 +9,16 @@
 
 </div>
 
+​🛠 TECH STACK & TOOLS
+​🕹️ Game Development & 3D
+​Engine: Unity
+​Language: C#
+​Graphics: Blender 3D
+​📱 Android Development
+​Language: Kotlin
+​UI Toolkit: Jetpack Compose
+​Design: Material Design 3 (Material You)
+
 ​<div align="center">
 
 Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
