@@ -1,4 +1,4 @@
-📊 CORE METRICS (ACTIVITY)
+## 📊 CORE METRICS
 ​<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uglydevelop&theme=tokyonight" alt="GitHub Stats" width="97%" />
