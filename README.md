@@ -12,16 +12,16 @@
 ## 🛠 TECH STACK & TOOLS
 
 ### 🕹️ Game Development
-* **Engine:** Unity &nbsp; <img src="https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white" style="vertical-align: -4px;" />
-* **Language:** C# &nbsp; <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" style="vertical-align: -4px;" />
+* **Engine:** Unity &nbsp; <img src="https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white" style="vertical-align: -8px;" />
+* **Language:** C# &nbsp; <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" style="vertical-align: -8px;" />
 * **Platforms:** 
-  * Android &nbsp; <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" style="vertical-align: -4px;" />
-  * Windows &nbsp; <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" style="vertical-align: -4px;" />
+  * Android &nbsp; <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" style="vertical-align: -8px;" />
+  * Windows &nbsp; <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" style="vertical-align: -8px;" />
 
 ### 📱 Android Development
-* **Language:** Kotlin &nbsp; <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" style="vertical-align: -4px;" />
-* **UI Toolkit:** Jetpack Compose &nbsp; <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" style="vertical-align: -4px;" />
-* **Design:** Material Design 3 (Material You) &nbsp; <img src="https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white" style="vertical-align: -4px;" />
+* **Language:** Kotlin &nbsp; <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" style="vertical-align: -8px;" />
+* **UI Toolkit:** Jetpack Compose &nbsp; <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" style="vertical-align: -8px;" />
+* **Design:** Material Design 3 (Material You) &nbsp; <img src="https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white" style="vertical-align: -8px;" />
 
 ​<div align="center">
 
