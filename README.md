@@ -13,13 +13,6 @@
 
 Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
 
-</div>
-
-<div align="center">
-<!-- Атмосферная зацикленная гифка -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmN0M3B0M3B0M3B0M3B0M3B0M3B0M3B0M3B0M3B/l3q2K1M6w1qR2L6wU/giphy.webp" width="200" style="border-radius: 8px;" />
-</div>
-
 ---
 
 ## 🌌 ABOUT ME
