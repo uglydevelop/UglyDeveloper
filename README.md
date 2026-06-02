@@ -9,13 +9,13 @@
 
 </div>
 
-​## 🛠 TECH STACK & TOOLS
+## 🛠 TECH STACK & TOOLS
 ```text
-​🕹️ Game Development & 3D
+​> [🕹️ Game Development & 3D]:
 ​Engine: Unity
 ​Language: C#
 
-​📱 Android Development
+​> [📱 Android Development]:
 ​Language: Kotlin
 ​UI Toolkit: Jetpack Compose
 ​Design: Material Design 3 (Material You)
