@@ -14,7 +14,6 @@
 Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
 
 </div>
----
 
 ## 🌌 ABOUT ME
 ```text
