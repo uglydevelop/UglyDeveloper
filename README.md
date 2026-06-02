@@ -27,20 +27,6 @@
 Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
 </div>
 
-<div align="center">
-
-### 🌐 CONNECT WITH ME
-
-[![Telegram](https://img.shields.io/badge/Telegram-222222?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/UglyDeveloper)
-&nbsp;&nbsp;
-[![VK](https://img.shields.io/badge/VKontakte-222222?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/windzik)
-
-<br/><br/>
-
-<sub><i>"Silence is better than uncompleted code."</i></sub>
-</div>
-
-
 ## 🌌 ABOUT ME
 ```text
 > [USER]: Independent Developer
@@ -48,6 +34,14 @@ Hi! I work in software development and creation. I prefer not to chat about proj
 > [STYLE]: Dark Minimalist & High Performance
 
 ```
+<div align="center">
+### 🌐 CONNECT WITH ME
+
+[![Telegram](https://img.shields.io/badge/Telegram-222222?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/UglyDeveloper)
+&nbsp;&nbsp;
+[![VK](https://img.shields.io/badge/VKontakte-222222?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/windzik)
+</div>
+
 <div align="center">
 <sub><i>"Silence is better than uncompleted code."</i></sub>
 </div>
