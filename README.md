@@ -28,6 +28,11 @@ Hi! I work in software development and creation. I prefer not to chat about proj
 </div>
 
 ## 🌌 ABOUT ME
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Developing+immersive+experiences...;Writing+clean+Kotlin+%26+C%23+architecture...;Status%3A+Building+undercover.+%F0%9F%A4%AB" alt="Typing SVG" />
+</div>
+
 ```text
 > [USER]: Independent Developer
 > [STATUS]: Cooking something undercover 🤫
