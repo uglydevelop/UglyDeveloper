@@ -10,16 +10,19 @@
 </div>
 
 ## 🛠 TECH STACK & TOOLS
-```text
-​> [🕹️ Game Development]:
-​Engine: Unity
-​Language: C#
-Platforms: Android, Windows
 
-​> [📱 Android Development]:
-​Language: Kotlin
-​UI Toolkit: Jetpack Compose
-​Design: Material Design 3 (Material You)
+### 🕹️ Game Development
+* **Engine:** Unity &nbsp; ![](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white)
+* **Language:** C# &nbsp; ![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+* **Platforms:** 
+  * Android &nbsp; ![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  * Windows &nbsp; ![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+### 📱 Android Development
+* **Language:** Kotlin &nbsp; ![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+* **UI Toolkit:** Jetpack Compose &nbsp; ![](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+* **Design:** Material Design 3 (Material You) &nbsp; ![]([https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white](https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white))
+
 
 ```
 
