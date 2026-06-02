@@ -35,6 +35,6 @@
 > [STATUS]: Cooking something undercover 🤫
 > [STYLE]: Dark Minimalist & High Performance
 
-
+```
 <sub><i>"Silence is better than uncompleted code."</i></sub>
 
