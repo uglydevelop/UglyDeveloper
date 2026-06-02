@@ -1,7 +1,7 @@
 📊 CORE METRICS (ACTIVITY)
 ​<div align="center">
 ​<!-- Общая статистика твоего аккаунта -->
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=uglydevelop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
 <!-- Топ языков, которые ты реально используешь в коде -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 ​<!-- График твоих ежедневных коммитов -->
