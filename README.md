@@ -24,7 +24,6 @@
   * Windows <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" align="center" />
 
 ​<div align="center">
-> [!NOTE]
 > Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
 </div>
 
