@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uglydevelop&theme=tokyonight" alt="GitHub Stats" width="97%" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglydeveloper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglydevelop&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uglydevelop&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
 
