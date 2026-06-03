@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uglydevelop&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=uglydevelop&show_icons=true&theme=onedark" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=uglydevelop&show_icons=true&theme=nightcontrast" alt="GitHub Stats" />
 
 </div>
 
