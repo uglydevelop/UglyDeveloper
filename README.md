@@ -20,7 +20,7 @@
 
 ### 🕹️ Game Development
 * Engine: Unity <img src="https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white" align="center" />
-* Language: C# <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" align="center" />
+* Language: <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" align="center" />
 * Platforms: 
   * Android <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" align="center" />
   * Windows <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" align="center" />
