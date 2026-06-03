@@ -14,16 +14,16 @@
 ## 🛠 TECH STACK & TOOLS
 
 ### 📱 Android Development
-* Language: Kotlin <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" align="center" />
-* UI Toolkit: Jetpack Compose <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" align="center" />
-* Design: Material Design 3 (Material You) <img src="https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white" align="center" />
+* Language: <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" align="center" />
+* UI Toolkit: <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" align="center" />
+* Design: <img src="https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white" align="center" />
 
 ### 🕹️ Game Development
-* Engine: Unity <img src="https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white" align="center" />
+* Engine: <img src="https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=unity&logoColor=white" align="center" />
 * Language: <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" align="center" />
 * Platforms: 
-  * Android <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" align="center" />
-  * Windows <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" align="center" />
+  * <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" align="center" />
+  * <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" align="center" />
 
 ​<div align="center">
 > Hi! I work in software development and creation. I prefer not to chat about projects while they're in progress, but rather to just quietly write code. I love clean architecture, user-friendly interfaces, and a dark, atmospheric aesthetic.
