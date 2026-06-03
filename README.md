@@ -5,6 +5,9 @@
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglydeveloper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uglydevelop&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
 
 </div>
